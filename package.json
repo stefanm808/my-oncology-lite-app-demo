@@ -1,8 +1,8 @@
 {
   "name": "mela-cds",
   "private": true,
-  "version": "0.1.0",
-  "description": "Melanoma Clinical Decision Support",
+  "version": "1.0.0",
+  "description": "Melanoma Clinical Decision Support — evidence-based treatment recommendations, risk classification, survival estimation, and molecular profiling",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -19,6 +19,17 @@
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.4.2"
   },
+  "keywords": [
+    "melanoma",
+    "clinical-decision-support",
+    "oncology",
+    "dermatology",
+    "BRAF",
+    "immunotherapy",
+    "checkpoint-inhibitor",
+    "react",
+    "medical"
+  ],
   "license": "MIT",
   "author": "Stefan M"
 }
