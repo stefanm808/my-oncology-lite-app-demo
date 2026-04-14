@@ -1,4 +1,4 @@
-# MelaCDS — Melanoma Clinical Decision Support
+Melanoma Clinical Decision Support
 
 A standalone, open-source clinical decision support application for melanoma. Built as a React web app with full clinical logic, molecular profiling, and evidence-based treatment recommendations.
 
